@@ -75,6 +75,7 @@ Conditional quantum gates restore the original logical state.
 Simulation results are evaluated using measurement probabilities and circuit outputs.
 
 >> System Architecture
+
 Logical Qubit
       ↓
 Encoding Circuit
