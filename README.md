@@ -143,7 +143,7 @@ Electronics & Instrumentation Engineer | AI & Quantum Computing Enthusiast
 
 GitHub: https://github.com/srikth
 
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/srikanth-shanmugam
 
 >> References
 
