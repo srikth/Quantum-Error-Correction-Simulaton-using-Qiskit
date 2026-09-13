@@ -124,6 +124,8 @@ Integrate quantum machine learning for adaptive error mitigation
  >>How to Run
 pip install qiskit numpy matplotlib
 python quantum_error_correction.py
+
+
 >>Key Concepts
 
 Quantum Superposition
